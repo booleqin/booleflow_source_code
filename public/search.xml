@@ -423,7 +423,7 @@
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> DM&amp;ML </category>
           
       </categories>
       
@@ -452,7 +452,7 @@
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> DM&amp;ML </category>
           
       </categories>
       
@@ -1394,7 +1394,7 @@
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> DM&amp;ML </category>
           
       </categories>
       
@@ -1545,7 +1545,7 @@
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> DM&amp;ML </category>
           
       </categories>
       
@@ -1574,7 +1574,7 @@
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> DM&amp;ML </category>
           
       </categories>
       
@@ -1603,7 +1603,7 @@
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> DM&amp;ML </category>
           
       </categories>
       
@@ -1630,7 +1630,7 @@
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> DM&amp;ML </category>
           
       </categories>
       
@@ -1746,7 +1746,7 @@
       
       <categories>
           
-          <category> 数据挖掘 </category>
+          <category> DM&amp;ML </category>
           
       </categories>
       
@@ -1756,6 +1756,8 @@
             <tag> spark </tag>
             
             <tag> pyspark </tag>
+            
+            <tag> 大数据 </tag>
             
         </tags>
       

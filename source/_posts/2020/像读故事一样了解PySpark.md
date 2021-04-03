@@ -6,7 +6,8 @@ summary: Spark是一个开源、强大的分布式查询和处理引擎，Python
 tags:
   - spark
   - pyspark
-categories: 数据挖掘
+  - 大数据
+categories: DM&ML
 ---
 
 ## 初识spark

@@ -6,7 +6,7 @@ summary: 基于CV2对图像进行视觉处理，包括阈值、卷积、噪声�
 tags:
   - 图片视觉
   - 图像处理
-categories: 机器学习
+categories: DM&ML
 ---
 
 以下所有代码在mac python3下测试通过。
