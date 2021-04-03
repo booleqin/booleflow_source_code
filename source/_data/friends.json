@@ -1,19 +1,61 @@
 [{
-    "avatar": "http://image.luokangyuan.com/4027734.jpeg",
+    "avatar": "https://booleflow.com/medias/boolelogo.png",
+    "name": "booleflow",
+    "introduction": "希望成为流动的支点",
+    "url": "https://booleflow.com/",
+    "title": "前去学习"
+}, {
+    "avatar": "https://blinkfox.github.io/medias/avatar.jpg",
     "name": "闪烁之狐",
-    "introduction": "编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬",
+    "introduction": "本blog使用的就是大佬做的hexo Matery主题",
     "url": "https://blinkfox.github.io/",
     "title": "前去学习"
 }, {
-    "avatar": "http://image.luokangyuan.com/1_qq_27922023.jpg",
-    "name": "码酱",
-    "introduction": "我不是大佬，只是在追寻大佬的脚步",
-    "url": "http://luokangyuan.com/",
+    "avatar": "https://ai.googleblog.com/favicon.ico",
+    "name": "Google AI Blog",
+    "introduction": "很多最新的高质量文章",
+    "url": "https://ai.googleblog.com/",
     "title": "前去学习"
 }, {
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "ja_rome",
-    "introduction": "平凡的脚步也可以走出伟大的行程",
-    "url": "https://me.csdn.net/jlh912008548",
+    "avatar": "http://www.arxiv-sanity.com/static/favicon.png",
+    "name": "Arxiv",
+    "introduction": "物理学、数学、计算机科学、生物学与数理经济学的论文预印本",
+    "url": "http://www.arxiv-sanity.com/",
+    "title": "前去学习"
+}, {
+    "avatar": "https://tool.yovisun.com/favicon.ico",
+    "name": "SCI-Hub",
+    "introduction": "SCI-Hub论文下载",
+    "url": "https://tool.yovisun.com/scihub/",
+    "title": "前去学习"
+}, {
+    "avatar": "https://originalfileserver.aminer.cn/sys/aminer/favicon.ico",
+    "name": "AMiner",
+    "introduction": "科技情报分析与挖掘平台",
+    "url": "https://www.aminer.cn/",
+    "title": "前去学习"
+}, {
+    "avatar": "http://pss-system.cnipa.gov.cn/sipopublicsearch/common-ui/images/logo-bg.png",
+    "name": "专利检索及分析",
+    "introduction": "国内官方的专利检索地址",
+    "url": "http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uiIndex.shtml",
+    "title": "前去学习"
+}, {
+    "avatar": "https://www.gstatic.cn/devrel-devsite/prod/v236200e9f3bdf34d077efc081c4ecb460c88128ff369ccbfc69028c3ea4bf423/developers/images/favicon.png",
+    "name": "Google机器学习",
+    "introduction": "一个非常好的机器速成课程",
+    "url": "https://developers.google.cn/machine-learning/crash-course/",
+    "title": "前去学习"
+}, {
+    "avatar": "https://ai-studio-static-online.cdn.bcebos.com/aistudio/dist/1616662031124/favicon-32.ico",
+    "name": "百度AI Studio",
+    "introduction": "关于paddle的项目案例",
+    "url": "https://aistudio.baidu.com/aistudio/projectoverview/public",
+    "title": "前去学习"
+}, {
+    "avatar": "https://kexue.fm/usr/themes/geekg/favicon.ico",
+    "name": "科学空间",
+    "introduction": "上知天文下知地理的大神",
+    "url": "https://kexue.fm/",
     "title": "前去学习"
 }]
