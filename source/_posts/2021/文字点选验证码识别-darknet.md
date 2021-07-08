@@ -9,7 +9,7 @@ tags:
   - 目标检测
   - YOLO
   - darknet
-categories: 深度学习
+categories: ML&DL
 ---
 
 ## 背景

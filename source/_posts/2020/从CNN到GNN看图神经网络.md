@@ -8,7 +8,7 @@ tags:
   - 卷积神经网络
   - 图卷积神经网络
   - 图神经网络
-categories: 深度学习
+categories: ML&DL
 ---
 
 ## 图这种数据结构

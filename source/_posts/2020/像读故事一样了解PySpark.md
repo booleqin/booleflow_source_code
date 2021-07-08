@@ -7,7 +7,7 @@ tags:
   - spark
   - pyspark
   - 大数据
-categories: DM&ML
+categories: DS&DM
 ---
 
 ## 初识spark

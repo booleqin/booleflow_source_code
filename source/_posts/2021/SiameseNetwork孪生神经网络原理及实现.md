@@ -9,7 +9,7 @@ tags:
   - SiameseNetwork
   - 相似度
   - pytorch
-categories: 深度学习
+categories: ML&DL
 ---
 
 ## Siamese network
