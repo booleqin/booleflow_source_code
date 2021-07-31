@@ -6,7 +6,7 @@
   <link href="http://booleflow.com/atom.xml" rel="self"/>
   
   <link href="http://booleflow.com/"/>
-  <updated>2021-07-08T10:44:13.643Z</updated>
+  <updated>2021-07-31T14:50:15.627Z</updated>
   <id>http://booleflow.com/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Production Costs</title>
+    <link href="http://booleflow.com/2021/07/03/production-costs/"/>
+    <id>http://booleflow.com/2021/07/03/production-costs/</id>
+    <published>2021-07-03T09:32:49.000Z</published>
+    <updated>2021-07-31T14:50:15.627Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;What-is-Costs&quot;&gt;&lt;a href=&quot;#What-is-Costs&quot; class=&quot;headerlink&quot; title=&quot;What is Costs&quot;&gt;&lt;/a&gt;What is Costs&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="经济学" scheme="http://booleflow.com/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    
+    
+    <category term="机会成本" scheme="http://booleflow.com/tags/%E6%9C%BA%E4%BC%9A%E6%88%90%E6%9C%AC/"/>
+    
+    <category term="边际成本" scheme="http://booleflow.com/tags/%E8%BE%B9%E9%99%85%E6%88%90%E6%9C%AC/"/>
+    
+    <category term="规模经济" scheme="http://booleflow.com/tags/%E8%A7%84%E6%A8%A1%E7%BB%8F%E6%B5%8E/"/>
+    
+  </entry>
+  
+  <entry>
     <title>税制的设计</title>
     <link href="http://booleflow.com/2021/06/13/shui-zhi-de-she-ji/"/>
     <id>http://booleflow.com/2021/06/13/shui-zhi-de-she-ji/</id>
     <published>2021-06-13T09:15:02.000Z</published>
-    <updated>2021-07-08T10:44:13.643Z</updated>
+    <updated>2021-07-31T08:24:54.514Z</updated>
     
     
       
@@ -48,7 +77,7 @@
     <link href="http://booleflow.com/2021/06/12/gong-gong-wu-pin-he-gong-gong-zi-yuan/"/>
     <id>http://booleflow.com/2021/06/12/gong-gong-wu-pin-he-gong-gong-zi-yuan/</id>
     <published>2021-06-12T11:01:20.000Z</published>
-    <updated>2021-07-07T14:00:32.571Z</updated>
+    <updated>2021-07-31T08:24:54.405Z</updated>
     
     
       
@@ -79,7 +108,7 @@
     <link href="http://booleflow.com/2021/06/06/shi-chang-wai-bu-xing/"/>
     <id>http://booleflow.com/2021/06/06/shi-chang-wai-bu-xing/</id>
     <published>2021-06-06T08:13:55.000Z</published>
-    <updated>2021-07-06T13:10:10.097Z</updated>
+    <updated>2021-07-31T08:24:54.440Z</updated>
     
     
       
@@ -110,7 +139,7 @@
     <link href="http://booleflow.com/2021/06/05/wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen/"/>
     <id>http://booleflow.com/2021/06/05/wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen/</id>
     <published>2021-06-05T09:40:53.000Z</published>
-    <updated>2021-07-05T09:51:34.570Z</updated>
+    <updated>2021-07-31T08:24:54.357Z</updated>
     
     
       
@@ -141,7 +170,7 @@
     <link href="http://booleflow.com/2021/05/05/ban-xiao-shi-man-hua-zhong-guo-shi-5/"/>
     <id>http://booleflow.com/2021/05/05/ban-xiao-shi-man-hua-zhong-guo-shi-5/</id>
     <published>2021-05-05T07:20:19.000Z</published>
-    <updated>2021-07-11T10:24:29.160Z</updated>
+    <updated>2021-07-31T08:24:54.355Z</updated>
     
     
       
@@ -172,7 +201,7 @@
     <link href="http://booleflow.com/2021/05/04/ban-xiao-shi-man-hua-zhong-guo-shi-4/"/>
     <id>http://booleflow.com/2021/05/04/ban-xiao-shi-man-hua-zhong-guo-shi-4/</id>
     <published>2021-05-04T09:50:16.000Z</published>
-    <updated>2021-07-11T10:23:55.183Z</updated>
+    <updated>2021-07-31T08:24:54.355Z</updated>
     
     
       
@@ -203,7 +232,7 @@
     <link href="http://booleflow.com/2021/05/03/ban-xiao-shi-man-hua-zhong-guo-shi-3/"/>
     <id>http://booleflow.com/2021/05/03/ban-xiao-shi-man-hua-zhong-guo-shi-3/</id>
     <published>2021-05-03T03:19:32.000Z</published>
-    <updated>2021-07-11T10:24:08.625Z</updated>
+    <updated>2021-07-31T08:24:54.355Z</updated>
     
     
       
@@ -236,7 +265,7 @@
     <link href="http://booleflow.com/2021/05/02/ban-xiao-shi-man-hua-zhong-guo-shi-2/"/>
     <id>http://booleflow.com/2021/05/02/ban-xiao-shi-man-hua-zhong-guo-shi-2/</id>
     <published>2021-05-02T10:44:58.000Z</published>
-    <updated>2021-07-11T10:12:32.588Z</updated>
+    <updated>2021-07-31T08:24:54.354Z</updated>
     
     
       
@@ -269,7 +298,7 @@
     <link href="http://booleflow.com/2021/05/01/ban-xiao-shi-man-hua-zhong-guo-shi-1/"/>
     <id>http://booleflow.com/2021/05/01/ban-xiao-shi-man-hua-zhong-guo-shi-1/</id>
     <published>2021-05-01T10:53:16.000Z</published>
-    <updated>2021-07-11T10:12:30.192Z</updated>
+    <updated>2021-07-31T08:24:54.354Z</updated>
     
     
       
@@ -300,7 +329,7 @@
     <link href="http://booleflow.com/2021/04/04/guo-ji-mao-yi-de-de-shi/"/>
     <id>http://booleflow.com/2021/04/04/guo-ji-mao-yi-de-de-shi/</id>
     <published>2021-04-04T10:20:41.000Z</published>
-    <updated>2021-07-05T09:39:13.312Z</updated>
+    <updated>2021-07-31T08:24:54.426Z</updated>
     
     
       
@@ -329,7 +358,7 @@
     <link href="http://booleflow.com/2021/04/04/fu-shui-de-dai-jie/"/>
     <id>http://booleflow.com/2021/04/04/fu-shui-de-dai-jie/</id>
     <published>2021-04-04T08:46:21.000Z</published>
-    <updated>2021-07-05T09:39:13.509Z</updated>
+    <updated>2021-07-31T08:24:54.514Z</updated>
     
     
       
@@ -360,7 +389,7 @@
     <link href="http://booleflow.com/2021/04/03/sheng-yu-yu-shi-chang-xiao-lu/"/>
     <id>http://booleflow.com/2021/04/03/sheng-yu-yu-shi-chang-xiao-lu/</id>
     <published>2021-04-03T09:46:28.000Z</published>
-    <updated>2021-07-05T09:39:13.289Z</updated>
+    <updated>2021-07-31T08:24:54.410Z</updated>
     
     
       
@@ -389,7 +418,7 @@
     <link href="http://booleflow.com/2021/04/03/she-qun-bian-ma-shi-bie-hei-hui-chan-gong-ji-shi-jian/"/>
     <id>http://booleflow.com/2021/04/03/she-qun-bian-ma-shi-bie-hei-hui-chan-gong-ji-shi-jian/</id>
     <published>2021-04-03T03:45:09.000Z</published>
-    <updated>2021-07-08T11:20:59.577Z</updated>
+    <updated>2021-07-31T08:24:54.493Z</updated>
     
     
       
@@ -418,7 +447,7 @@
     <link href="http://booleflow.com/2021/03/28/xi-que-wo-men-shi-ru-he-xian-ru-pin-qiong-yu-mang-lu-de/"/>
     <id>http://booleflow.com/2021/03/28/xi-que-wo-men-shi-ru-he-xian-ru-pin-qiong-yu-mang-lu-de/</id>
     <published>2021-03-28T15:50:51.000Z</published>
-    <updated>2021-07-05T09:39:13.110Z</updated>
+    <updated>2021-07-31T08:24:54.357Z</updated>
     
     
       
@@ -451,7 +480,7 @@
     <link href="http://booleflow.com/2021/03/27/liang-hua-tou-zi-gai-nian-yu-ji-zhu/"/>
     <id>http://booleflow.com/2021/03/27/liang-hua-tou-zi-gai-nian-yu-ji-zhu/</id>
     <published>2021-03-27T08:45:09.000Z</published>
-    <updated>2021-07-05T09:39:13.546Z</updated>
+    <updated>2021-07-31T08:24:54.525Z</updated>
     
     
       
@@ -483,7 +512,7 @@
     <link href="http://booleflow.com/2021/03/22/zheng-ze-hua-na-xie-shi/"/>
     <id>http://booleflow.com/2021/03/22/zheng-ze-hua-na-xie-shi/</id>
     <published>2021-03-22T07:14:20.000Z</published>
-    <updated>2021-07-08T11:20:49.084Z</updated>
+    <updated>2021-07-31T08:24:54.489Z</updated>
     
     
       
@@ -512,7 +541,7 @@
     <link href="http://booleflow.com/2021/03/13/neo4j-shi-yong-xiang-jie/"/>
     <id>http://booleflow.com/2021/03/13/neo4j-shi-yong-xiang-jie/</id>
     <published>2021-03-13T03:11:19.000Z</published>
-    <updated>2021-07-05T09:39:13.024Z</updated>
+    <updated>2021-07-31T08:24:54.325Z</updated>
     
     
       
@@ -541,7 +570,7 @@
     <link href="http://booleflow.com/2021/03/06/siamesenetwork-luan-sheng-shen-jing-wang-luo-yuan-li-ji-shi-xian/"/>
     <id>http://booleflow.com/2021/03/06/siamesenetwork-luan-sheng-shen-jing-wang-luo-yuan-li-ji-shi-xian/</id>
     <published>2021-03-06T09:39:47.000Z</published>
-    <updated>2021-07-08T11:20:45.662Z</updated>
+    <updated>2021-07-31T08:24:54.318Z</updated>
     
     
       
@@ -570,7 +599,7 @@
     <link href="http://booleflow.com/2021/02/28/ni-shang-wo-men-gai-ru-he-ying-dui-pi-shi-jian/"/>
     <id>http://booleflow.com/2021/02/28/ni-shang-wo-men-gai-ru-he-ying-dui-pi-shi-jian/</id>
     <published>2021-02-28T15:26:06.000Z</published>
-    <updated>2021-07-05T09:39:13.210Z</updated>
+    <updated>2021-07-31T08:24:54.373Z</updated>
     
     
       
@@ -593,35 +622,6 @@
     <category term="逆商" scheme="http://booleflow.com/tags/%E9%80%86%E5%95%86/"/>
     
     <category term="保罗·史托兹" scheme="http://booleflow.com/tags/%E4%BF%9D%E7%BD%97%C2%B7%E5%8F%B2%E6%89%98%E5%85%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文字点选验证码识别-darknet</title>
-    <link href="http://booleflow.com/2021/02/27/wen-zi-dian-xuan-yan-zheng-ma-shi-bie-darknet/"/>
-    <id>http://booleflow.com/2021/02/27/wen-zi-dian-xuan-yan-zheng-ma-shi-bie-darknet/</id>
-    <published>2021-02-27T07:31:45.000Z</published>
-    <updated>2021-07-08T11:20:53.235Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;（**本文代码已放在 &lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="ML&amp;DL" scheme="http://booleflow.com/categories/ML-DL/"/>
-    
-    
-    <category term="目标检测" scheme="http://booleflow.com/tags/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/"/>
-    
-    <category term="YOLO" scheme="http://booleflow.com/tags/YOLO/"/>
-    
-    <category term="darknet" scheme="http://booleflow.com/tags/darknet/"/>
     
   </entry>
   
