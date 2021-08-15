@@ -110,7 +110,7 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: https://github.com/booleqin/booleqin.github.io
+  repository: https://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@github.com/booleqin/booleqin.github.io
   ## repository: git@github.com:booleqin/booleqin.github.io
   branch: main
 
