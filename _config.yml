@@ -112,7 +112,7 @@ deploy:
   type: 'git'
   repository: https://github.com/booleqin/booleqin.github.io
   ## repository: git@github.com:booleqin/booleqin.github.io
-  branch: master
+  branch: main
 
 # 搜索
 search:
