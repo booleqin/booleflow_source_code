@@ -7,7 +7,6 @@ date: 2020-11-15 21:30:03
 summary: python数据分析利器，类似Excel中的数据透视表。
 tags:
   - 数据分析
-  - 数据透视
   - 统计学
 categories: 计算机技术
 ---

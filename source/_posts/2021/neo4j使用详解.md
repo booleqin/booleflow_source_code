@@ -7,7 +7,7 @@ date: 2021-03-13 11:11:19
 summary: Neo4j是一个基于JAVA编写的NoSQL数据库，相比于 MySQL 之类的关系数据库(RDBMS)，能更灵活地表示数据。
 tags:
   - neo4j
-  - 非关系型数据库
+  - 数据库
   - Cypher
 categories: 计算机技术
 ---
