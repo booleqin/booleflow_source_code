@@ -293,5 +293,5 @@ group by id) t ;
 
 [基于SparkUI Spark Sql 数据倾斜特征及解决方法](https://www.jianshu.com/p/bfe937f03631) 
 
-[[Spark性能优化指南——高级篇](https://tech.meituan.com/2016/05/12/spark-tuning-pro.html)] 
+[Spark性能优化指南——高级篇](https://tech.meituan.com/2016/05/12/spark-tuning-pro.html) 
 

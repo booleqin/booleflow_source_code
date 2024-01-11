@@ -6,7 +6,7 @@
   <link href="http://booleflow.com/atom.xml" rel="self"/>
   
   <link href="http://booleflow.com/"/>
-  <updated>2022-05-04T12:50:17.947Z</updated>
+  <updated>2023-02-26T15:42:13.207Z</updated>
   <id>http://booleflow.com/</id>
   
   <author>
@@ -17,11 +17,244 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>《赌金者-长期资本管理公司的升腾与陨落》</title>
+    <link href="http://booleflow.com/2023/02/26/du-jin-zhe-chang-qi-zi-ben-guan-li-gong-si-de-sheng-teng-yu-yun-luo/"/>
+    <id>http://booleflow.com/2023/02/26/du-jin-zhe-chang-qi-zi-ben-guan-li-gong-si-de-sheng-teng-yu-yun-luo/</id>
+    <published>2023-02-26T12:34:05.000Z</published>
+    <updated>2023-02-26T15:42:13.207Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;When-Genius-Failed-赌金者&quot;&gt;&lt;a href=&quot;#When-Genius-Failed-赌金者&quot; class=&quot;headerlink&quot; title=&quot;When Genius Failed, 赌金者&quot;&gt;&lt;/a&gt;When Genius</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="经济学" scheme="http://booleflow.com/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    
+    <category term="罗杰·洛温斯坦" scheme="http://booleflow.com/tags/%E7%BD%97%E6%9D%B0%C2%B7%E6%B4%9B%E6%B8%A9%E6%96%AF%E5%9D%A6/"/>
+    
+    <category term="金融杠杆" scheme="http://booleflow.com/tags/%E9%87%91%E8%9E%8D%E6%9D%A0%E6%9D%86/"/>
+    
+    <category term="市场波动性" scheme="http://booleflow.com/tags/%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8%E6%80%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《数学简史》</title>
+    <link href="http://booleflow.com/2022/12/11/shu-xue-jian-shi/"/>
+    <id>http://booleflow.com/2022/12/11/shu-xue-jian-shi/</id>
+    <published>2022-12-11T12:46:18.000Z</published>
+    <updated>2022-12-12T08:48:19.211Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;小到三餐四季，大到寰宇航行，到处都有数学的身影。数学来源于我们的生活，同时它又改造着我们的世界。从人类开始群居以来，数学就几乎充斥在历史的任何一个角落和每一个瞬间。&lt;/p&gt;
+&lt;p&gt;对于一般人而言，数学是繁杂的，那些犹如天书般的文字和符号，让我们倍受煎熬。我曾经不止一次的问自</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数学" scheme="http://booleflow.com/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="哲学" scheme="http://booleflow.com/tags/%E5%93%B2%E5%AD%A6/"/>
+    
+    <category term="蔡天新" scheme="http://booleflow.com/tags/%E8%94%A1%E5%A4%A9%E6%96%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《创新的资本逻辑》</title>
+    <link href="http://booleflow.com/2022/08/21/chuang-xin-de-zi-ben-luo-ji/"/>
+    <id>http://booleflow.com/2022/08/21/chuang-xin-de-zi-ben-luo-ji/</id>
+    <published>2022-08-21T10:40:49.000Z</published>
+    <updated>2022-08-28T12:07:04.110Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;用资本的视角思考创新的未来&quot;&gt;&lt;a href=&quot;#用资本的视角思考创新的未来&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="资本" scheme="http://booleflow.com/tags/%E8%B5%84%E6%9C%AC/"/>
+    
+    <category term="创新" scheme="http://booleflow.com/tags/%E5%88%9B%E6%96%B0/"/>
+    
+    <category term="金融" scheme="http://booleflow.com/tags/%E9%87%91%E8%9E%8D/"/>
+    
+    <category term="田轩" scheme="http://booleflow.com/tags/%E7%94%B0%E8%BD%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>KL散度原理解析</title>
+    <link href="http://booleflow.com/2022/06/19/kl-san-du-yuan-li-jie-xi/"/>
+    <id>http://booleflow.com/2022/06/19/kl-san-du-yuan-li-jie-xi/</id>
+    <published>2022-06-19T06:17:23.000Z</published>
+    <updated>2022-06-24T09:58:35.623Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;KL散度&quot;&gt;&lt;a href=&quot;#KL散度&quot; class=&quot;headerlink&quot; title=&quot;KL散度&quot;&gt;&lt;/a&gt;KL散度&lt;/h2&gt;&lt;p&gt;KL散度（Kullback-Leibler divergence，简称KLD），在信息系统中称为相对熵（relative</summary>
+        
+      
+    
+    
+    
+    <category term="ML&amp;DL" scheme="http://booleflow.com/categories/ML-DL/"/>
+    
+    
+    <category term="信息熵" scheme="http://booleflow.com/tags/%E4%BF%A1%E6%81%AF%E7%86%B5/"/>
+    
+    <category term="相对熵" scheme="http://booleflow.com/tags/%E7%9B%B8%E5%AF%B9%E7%86%B5/"/>
+    
+    <category term="信息增益" scheme="http://booleflow.com/tags/%E4%BF%A1%E6%81%AF%E5%A2%9E%E7%9B%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>编辑距离原理和实现</title>
+    <link href="http://booleflow.com/2022/06/13/bian-ji-ju-chi-yuan-li-he-shi-xian/"/>
+    <id>http://booleflow.com/2022/06/13/bian-ji-ju-chi-yuan-li-he-shi-xian/</id>
+    <published>2022-06-13T06:57:55.000Z</published>
+    <updated>2022-06-24T09:58:19.273Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;编辑距离&quot;&gt;&lt;a href=&quot;#编辑距离&quot; class=&quot;headerlink&quot; title=&quot;编辑距离&quot;&gt;&lt;/a&gt;编辑距离&lt;/h2&gt;&lt;p&gt;编辑距离（Minimum Edit Distance，MED），由俄罗斯科学家 Vladimir Levenshtein</summary>
+        
+      
+    
+    
+    
+    <category term="ML&amp;DL" scheme="http://booleflow.com/categories/ML-DL/"/>
+    
+    
+    <category term="相似性计算" scheme="http://booleflow.com/tags/%E7%9B%B8%E4%BC%BC%E6%80%A7%E8%AE%A1%E7%AE%97/"/>
+    
+    <category term="距离度量" scheme="http://booleflow.com/tags/%E8%B7%9D%E7%A6%BB%E5%BA%A6%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>引导犹太人智慧和富裕的塔木德</title>
+    <link href="http://booleflow.com/2022/06/05/yin-dao-you-tai-ren-chuang-ye-he-zhi-fu-de-ta-mu-de/"/>
+    <id>http://booleflow.com/2022/06/05/yin-dao-you-tai-ren-chuang-ye-he-zhi-fu-de-ta-mu-de/</id>
+    <published>2022-06-05T13:14:00.000Z</published>
+    <updated>2022-06-05T14:28:16.338Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;犹太人的信仰来自《圣经》，而智慧则来自《塔木德》。&lt;/p&gt;
+&lt;p&gt;塔木德由2000多位犹太学者在1000多年的讨论和研究中写成，它真正是犹太民族的一个智慧基因库。里面传达出丰富的人生哲理，包括契约精神、创业精神、对财富的态度、对智慧的渴求、对人生的思考。&lt;/p&gt;
+&lt;p&gt;犹太</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>端午安康还是快乐</title>
+    <link href="http://booleflow.com/2022/06/03/duan-wu-an-kang-huan-shi-kuai-le/"/>
+    <id>http://booleflow.com/2022/06/03/duan-wu-an-kang-huan-shi-kuai-le/</id>
+    <published>2022-06-03T09:57:43.000Z</published>
+    <updated>2022-06-05T13:21:17.725Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;端午只能“安康”，不能“快乐”吗？&lt;/p&gt;
+&lt;p&gt;端午节，农历每年五月初五，其起源于江浙地区吴越部族的龙图腾祭祀，是流行于中国以及汉字文化圈诸国的传统文化节日，端午节在中国所有传统节日中叫法最多，有端阳节、龙舟节、重五节等二十余个叫法。&lt;/p&gt;
+&lt;p&gt;中国人过传统佳节，喜欢</summary>
+        
+      
+    
+    
+    
+    <category term="经济学" scheme="http://booleflow.com/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    
+    
+    <category term="传统文化" scheme="http://booleflow.com/tags/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/"/>
+    
+    <category term="端午节" scheme="http://booleflow.com/tags/%E7%AB%AF%E5%8D%88%E8%8A%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《金融智能》</title>
+    <link href="http://booleflow.com/2022/05/29/jin-rong-zhi-neng/"/>
+    <id>http://booleflow.com/2022/05/29/jin-rong-zhi-neng/</id>
+    <published>2022-05-29T03:10:31.000Z</published>
+    <updated>2022-05-29T06:02:45.086Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1936年，图灵在一篇名为《论数字计算在决断难题中的应用》的论文中，提出了图灵机的的概念，1950年，图灵发表了论文《计算机器与智能》，里面提出了“图灵测试”，算是一篇划时代的论文。然而，计算机史上第一个通过图灵测试的机器直到60多年后的2014年才出现。可也正是最近这短短</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="人工智能" scheme="http://booleflow.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="经济学" scheme="http://booleflow.com/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    
+    <category term="银行业" scheme="http://booleflow.com/tags/%E9%93%B6%E8%A1%8C%E4%B8%9A/"/>
+    
+    <category term="保险业" scheme="http://booleflow.com/tags/%E4%BF%9D%E9%99%A9%E4%B8%9A/"/>
+    
+    <category term="证券业" scheme="http://booleflow.com/tags/%E8%AF%81%E5%88%B8%E4%B8%9A/"/>
+    
+  </entry>
+  
+  <entry>
     <title>spark数据倾斜解决方案</title>
     <link href="http://booleflow.com/2022/05/04/spark-shu-ju-qing-xie-jie-jue-fang-an/"/>
     <id>http://booleflow.com/2022/05/04/spark-shu-ju-qing-xie-jie-jue-fang-an/</id>
     <published>2022-05-04T08:46:41.000Z</published>
-    <updated>2022-05-04T12:50:17.947Z</updated>
+    <updated>2022-05-06T04:34:26.953Z</updated>
     
     
       
@@ -50,7 +283,7 @@
     <link href="http://booleflow.com/2022/05/03/zhi-neng-de-ben-zhi/"/>
     <id>http://booleflow.com/2022/05/03/zhi-neng-de-ben-zhi/</id>
     <published>2022-05-03T10:42:53.000Z</published>
-    <updated>2022-05-03T11:59:35.208Z</updated>
+    <updated>2022-05-06T04:32:43.840Z</updated>
     
     
       
@@ -79,7 +312,7 @@
     <link href="http://booleflow.com/2022/03/20/yuan-yu-zhou-chu-tan/"/>
     <id>http://booleflow.com/2022/03/20/yuan-yu-zhou-chu-tan/</id>
     <published>2022-03-20T08:47:01.000Z</published>
-    <updated>2022-04-22T09:57:25.370Z</updated>
+    <updated>2022-06-24T09:58:55.703Z</updated>
     
     
       
@@ -97,11 +330,11 @@
     
     <category term="人工智能" scheme="http://booleflow.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
-    <category term="区块链" scheme="http://booleflow.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
-    
     <category term="元宇宙" scheme="http://booleflow.com/tags/%E5%85%83%E5%AE%87%E5%AE%99/"/>
     
     <category term="数字孪生" scheme="http://booleflow.com/tags/%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F/"/>
+    
+    <category term="区块链" scheme="http://booleflow.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
   </entry>
   
@@ -145,7 +378,7 @@
     <link href="http://booleflow.com/2022/02/20/web-ying-yong-chang-jian-an-quan-lou-dong/"/>
     <id>http://booleflow.com/2022/02/20/web-ying-yong-chang-jian-an-quan-lou-dong/</id>
     <published>2022-02-20T09:25:33.000Z</published>
-    <updated>2022-04-22T09:56:01.192Z</updated>
+    <updated>2022-05-06T04:34:08.924Z</updated>
     
     
       
@@ -190,9 +423,9 @@
     <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="管理学" scheme="http://booleflow.com/tags/%E7%AE%A1%E7%90%86%E5%AD%A6/"/>
-    
     <category term="定位" scheme="http://booleflow.com/tags/%E5%AE%9A%E4%BD%8D/"/>
+    
+    <category term="管理学" scheme="http://booleflow.com/tags/%E7%AE%A1%E7%90%86%E5%AD%A6/"/>
     
     <category term="杰克·特劳特" scheme="http://booleflow.com/tags/%E6%9D%B0%E5%85%8B%C2%B7%E7%89%B9%E5%8A%B3%E7%89%B9/"/>
     
@@ -205,7 +438,7 @@
     <link href="http://booleflow.com/2022/02/05/jian-guan-ke-ji-mian-xiang-wei-lai-de-jian-guan-bian-ge/"/>
     <id>http://booleflow.com/2022/02/05/jian-guan-ke-ji-mian-xiang-wei-lai-de-jian-guan-bian-ge/</id>
     <published>2022-02-05T07:28:19.000Z</published>
-    <updated>2022-02-07T06:26:51.697Z</updated>
+    <updated>2022-08-24T06:09:00.511Z</updated>
     
     
       
@@ -221,17 +454,17 @@
     <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="大数据" scheme="http://booleflow.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    <category term="人工智能" scheme="http://booleflow.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     <category term="金融" scheme="http://booleflow.com/tags/%E9%87%91%E8%9E%8D/"/>
     
+    <category term="区块链" scheme="http://booleflow.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    <category term="大数据" scheme="http://booleflow.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
     <category term="风控" scheme="http://booleflow.com/tags/%E9%A3%8E%E6%8E%A7/"/>
     
-    <category term="人工智能" scheme="http://booleflow.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
-    
     <category term="云计算" scheme="http://booleflow.com/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
-    
-    <category term="区块链" scheme="http://booleflow.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
     <category term="物联网" scheme="http://booleflow.com/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
     
@@ -244,7 +477,7 @@
     <link href="http://booleflow.com/2022/01/28/lang-chao-zhi-dian/"/>
     <id>http://booleflow.com/2022/01/28/lang-chao-zhi-dian/</id>
     <published>2022-01-28T13:57:55.000Z</published>
-    <updated>2022-04-22T10:01:12.467Z</updated>
+    <updated>2022-08-24T03:55:30.353Z</updated>
     
     
       
@@ -273,7 +506,7 @@
     <link href="http://booleflow.com/2022/01/01/yin-xing-luo-ji/"/>
     <id>http://booleflow.com/2022/01/01/yin-xing-luo-ji/</id>
     <published>2022-01-01T06:20:00.000Z</published>
-    <updated>2022-02-07T06:27:38.163Z</updated>
+    <updated>2022-05-06T04:32:16.782Z</updated>
     
     
       
@@ -301,7 +534,7 @@
     <link href="http://booleflow.com/2021/12/19/qian-cong-na-li-lai/"/>
     <id>http://booleflow.com/2021/12/19/qian-cong-na-li-lai/</id>
     <published>2021-12-19T07:28:05.000Z</published>
-    <updated>2022-02-07T06:26:16.856Z</updated>
+    <updated>2022-05-11T09:25:28.581Z</updated>
     
     
       
@@ -363,7 +596,7 @@
     <link href="http://booleflow.com/2021/09/22/yang-lao-chan-ye-yan-jiu-diao-yan/"/>
     <id>http://booleflow.com/2021/09/22/yang-lao-chan-ye-yan-jiu-diao-yan/</id>
     <published>2021-09-22T14:14:54.000Z</published>
-    <updated>2022-02-07T06:31:35.466Z</updated>
+    <updated>2022-05-06T04:26:33.697Z</updated>
     
     
       
@@ -385,249 +618,6 @@
     <category term="产业研究" scheme="http://booleflow.com/tags/%E4%BA%A7%E4%B8%9A%E7%A0%94%E7%A9%B6/"/>
     
     <category term="养老" scheme="http://booleflow.com/tags/%E5%85%BB%E8%80%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《理性的非理性金融》</title>
-    <link href="http://booleflow.com/2021/09/20/li-xing-de-fei-li-xing-jin-rong/"/>
-    <id>http://booleflow.com/2021/09/20/li-xing-de-fei-li-xing-jin-rong/</id>
-    <published>2021-09-20T06:53:09.000Z</published>
-    <updated>2022-02-07T06:26:05.467Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;《理性的非理性金融》，王健、余剑峰著&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;作者&quot;&gt;&lt;a href=&quot;#作者&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="金融学" scheme="http://booleflow.com/tags/%E9%87%91%E8%9E%8D%E5%AD%A6/"/>
-    
-    <category term="行为学" scheme="http://booleflow.com/tags/%E8%A1%8C%E4%B8%BA%E5%AD%A6/"/>
-    
-    <category term="心理学" scheme="http://booleflow.com/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
-    
-    <category term="王健" scheme="http://booleflow.com/tags/%E7%8E%8B%E5%81%A5/"/>
-    
-    <category term="余剑峰" scheme="http://booleflow.com/tags/%E4%BD%99%E5%89%91%E5%B3%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HiveSQL性能调优</title>
-    <link href="http://booleflow.com/2021/09/04/hivesql-xing-neng-diao-you/"/>
-    <id>http://booleflow.com/2021/09/04/hivesql-xing-neng-diao-you/</id>
-    <published>2021-09-04T02:26:23.000Z</published>
-    <updated>2021-09-02T11:59:57.986Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Hive-SQL和Spark-SQL&quot;&gt;&lt;a href=&quot;#Hive-SQL和Spark-SQL&quot; class=&quot;headerlink&quot; title=&quot;Hive SQL和Spark SQL&quot;&gt;&lt;/a&gt;Hive SQL和Spark</summary>
-        
-      
-    
-    
-    
-    <category term="DS&amp;DM" scheme="http://booleflow.com/categories/DS-DM/"/>
-    
-    
-    <category term="大数据" scheme="http://booleflow.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-    <category term="数据库" scheme="http://booleflow.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="性能优化" scheme="http://booleflow.com/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《顾客为什么购买》</title>
-    <link href="http://booleflow.com/2021/08/15/gu-ke-wei-shi-me-gou-mai/"/>
-    <id>http://booleflow.com/2021/08/15/gu-ke-wei-shi-me-gou-mai/</id>
-    <published>2021-08-15T07:50:33.000Z</published>
-    <updated>2021-08-15T07:56:37.688Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;《顾客为什么购买》，帕科·昂德希尔著&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注：读书笔记仅做记录，可读性较差。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;读这本书的时候，内心一直有一个念头环绕，那就是与时俱进的重要性。这本书的第一章大概写于1997年，已经是</summary>
-        
-      
-    
-    
-    
-    <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="商业" scheme="http://booleflow.com/tags/%E5%95%86%E4%B8%9A/"/>
-    
-    <category term="零售" scheme="http://booleflow.com/tags/%E9%9B%B6%E5%94%AE/"/>
-    
-    <category term="帕科·昂德希尔" scheme="http://booleflow.com/tags/%E5%B8%95%E7%A7%91%C2%B7%E6%98%82%E5%BE%B7%E5%B8%8C%E5%B0%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Production Costs</title>
-    <link href="http://booleflow.com/2021/07/03/production-costs/"/>
-    <id>http://booleflow.com/2021/07/03/production-costs/</id>
-    <published>2021-07-03T09:32:49.000Z</published>
-    <updated>2021-07-31T14:50:15.627Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;What-is-Costs&quot;&gt;&lt;a href=&quot;#What-is-Costs&quot; class=&quot;headerlink&quot; title=&quot;What is Costs&quot;&gt;&lt;/a&gt;What is Costs&lt;/h2&gt;&lt;h3</summary>
-        
-      
-    
-    
-    
-    <category term="经济学" scheme="http://booleflow.com/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
-    
-    
-    <category term="机会成本" scheme="http://booleflow.com/tags/%E6%9C%BA%E4%BC%9A%E6%88%90%E6%9C%AC/"/>
-    
-    <category term="边际成本" scheme="http://booleflow.com/tags/%E8%BE%B9%E9%99%85%E6%88%90%E6%9C%AC/"/>
-    
-    <category term="规模经济" scheme="http://booleflow.com/tags/%E8%A7%84%E6%A8%A1%E7%BB%8F%E6%B5%8E/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>税制的设计</title>
-    <link href="http://booleflow.com/2021/06/13/shui-zhi-de-she-ji/"/>
-    <id>http://booleflow.com/2021/06/13/shui-zhi-de-she-ji/</id>
-    <published>2021-06-13T09:15:02.000Z</published>
-    <updated>2021-07-31T08:24:54.514Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;美国政府的财政概况&quot;&gt;&lt;a href=&quot;#美国政府的财政概况&quot; class=&quot;headerlink&quot; title=&quot;美国政府的财政概况&quot;&gt;&lt;/a&gt;美国政府的财政概况&lt;/h2&gt;&lt;h3 id=&quot;联邦政府&quot;&gt;&lt;a href=&quot;#联邦政府&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="经济学" scheme="http://booleflow.com/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
-    
-    
-    <category term="无谓损失" scheme="http://booleflow.com/tags/%E6%97%A0%E8%B0%93%E6%8D%9F%E5%A4%B1/"/>
-    
-    <category term="税收" scheme="http://booleflow.com/tags/%E7%A8%8E%E6%94%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>公共物品和公共资源</title>
-    <link href="http://booleflow.com/2021/06/12/gong-gong-wu-pin-he-gong-gong-zi-yuan/"/>
-    <id>http://booleflow.com/2021/06/12/gong-gong-wu-pin-he-gong-gong-zi-yuan/</id>
-    <published>2021-06-12T11:01:20.000Z</published>
-    <updated>2021-07-31T08:24:54.405Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;经济物品分类&quot;&gt;&lt;a href=&quot;#经济物品分类&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="经济学" scheme="http://booleflow.com/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
-    
-    
-    <category term="竞争性" scheme="http://booleflow.com/tags/%E7%AB%9E%E4%BA%89%E6%80%A7/"/>
-    
-    <category term="排他性" scheme="http://booleflow.com/tags/%E6%8E%92%E4%BB%96%E6%80%A7/"/>
-    
-    <category term="搭便车" scheme="http://booleflow.com/tags/%E6%90%AD%E4%BE%BF%E8%BD%A6/"/>
-    
-    <category term="公地悲剧" scheme="http://booleflow.com/tags/%E5%85%AC%E5%9C%B0%E6%82%B2%E5%89%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>市场外部性</title>
-    <link href="http://booleflow.com/2021/06/06/shi-chang-wai-bu-xing/"/>
-    <id>http://booleflow.com/2021/06/06/shi-chang-wai-bu-xing/</id>
-    <published>2021-06-06T08:13:55.000Z</published>
-    <updated>2021-07-31T08:24:54.440Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;正外部性与负外部性&quot;&gt;&lt;a href=&quot;#正外部性与负外部性&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="经济学" scheme="http://booleflow.com/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
-    
-    
-    <category term="市场效率" scheme="http://booleflow.com/tags/%E5%B8%82%E5%9C%BA%E6%95%88%E7%8E%87/"/>
-    
-    <category term="市场失灵" scheme="http://booleflow.com/tags/%E5%B8%82%E5%9C%BA%E5%A4%B1%E7%81%B5/"/>
-    
-    <category term="正外部性" scheme="http://booleflow.com/tags/%E6%AD%A3%E5%A4%96%E9%83%A8%E6%80%A7/"/>
-    
-    <category term="负外部性" scheme="http://booleflow.com/tags/%E8%B4%9F%E5%A4%96%E9%83%A8%E6%80%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《未来简史-从智人到智神》</title>
-    <link href="http://booleflow.com/2021/06/05/wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen/"/>
-    <id>http://booleflow.com/2021/06/05/wei-lai-jian-shi-cong-zhi-ren-dao-zhi-shen/</id>
-    <published>2021-06-05T09:40:53.000Z</published>
-    <updated>2021-07-31T08:24:54.357Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;《未来简史-从智人到智神》，尤瓦尔·赫拉利著&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注：读书笔记仅做记录，可读性较差。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人类在20世纪使得饥荒、瘟疫和战争的发生概率不断减小，那么在21世纪会是什么事情成为人类的新议题</summary>
-        
-      
-    
-    
-    
-    <category term="读书笔记" scheme="http://booleflow.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="人文主义" scheme="http://booleflow.com/tags/%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89/"/>
-    
-    <category term="科技主义" scheme="http://booleflow.com/tags/%E7%A7%91%E6%8A%80%E4%B8%BB%E4%B9%89/"/>
-    
-    <category term="尤瓦尔·赫拉利" scheme="http://booleflow.com/tags/%E5%B0%A4%E7%93%A6%E5%B0%94%C2%B7%E8%B5%AB%E6%8B%89%E5%88%A9/"/>
     
   </entry>
   

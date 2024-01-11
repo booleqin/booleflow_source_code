@@ -53,7 +53,7 @@ categories: ML&DL
 $$
 A_{ij}= \begin{cases} 
 1, & \text {if $(v_{i}, v_{j}) \subseteq E $} \\ 
-0, & \text {else} \end{cases} 
+0, & \text {else} \end{cases}
 $$
 
 邻接矩阵经常是稀疏的，因此常用稀疏矩阵存储，空间复杂度能到$O(M)$。

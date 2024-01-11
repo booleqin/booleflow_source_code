@@ -12,9 +12,9 @@ tags:
 categories: ML&DL
 ---
 
-## 背景
-
 （**本文代码已放在 [github](https://github.com/booleqin/darknet_click_captcha)**）
+
+## 背景
 
 点选验证大概形式如下
 
